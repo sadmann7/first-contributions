@@ -4,6 +4,7 @@
 
 - [Bruno Dede Jr](https://github.com/7Arms)
 - [Seth Brown](https://github.com/sethbrown246)
+- [Aadil Khatri](https://github.com/Delocalized-electron)
 - [Douglas Kiprono](https://github.com/douglasrono)
 - [Gergő Czimmermann](https://github.com/GergoCzimmermann)
 - [Ruben Hernandez Jr.] (https://github.com/ruben-hernandez-jr)
