@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 
 - [Bruno Dede Jr](https://github.com/7Arms)
+- [nic3rafs](https://github.com/nic3rafs)
 - [Seth Brown](https://github.com/sethbrown246)
 - [Douglas Kiprono](https://github.com/douglasrono)
 - [Gergő Czimmermann](https://github.com/GergoCzimmermann)
