@@ -3070,6 +3070,7 @@ anokh
 - [VirginieLemaire](https://github.com/VirginieLemaire)
 - [Arajdian Altaf](https://github.com/DuckOfTheBooBoo)
 - [Lê Hồng Đức](https://github.com/tedomi2705)
+- [Cesar Silva](https://github.com/cesarsdcf)
 
 # sample contribution change
 
